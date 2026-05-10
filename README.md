@@ -51,14 +51,3 @@ python main.py
 
 The script splits the network scanning task into 50 concurrent "threads." Each thread picks an IP address from the generated list, executes a system-level ping command, and reports back whether the device is reachable. By running these checks in parallel rather than one-by-one, a scan that would normally take minutes is completed in seconds.
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](https://www.google.com/search?q=LICENSE).
-
-```
-
----
-
-final version?**
-
-```
