@@ -60,11 +60,6 @@ This project is open-source and available under the [MIT License](https://www.go
 
 ---
 
-### **Quick Tips for your GitHub:**
-1.  **Replace `YOUR_USERNAME`**: In the "Installation" section of the README, make sure to put your actual GitHub username.
-2.  **Add a License**: On GitHub, it's a good habit to add a license file (like MIT). It tells others they are free to use your code.
-3.  **The `network_input`**: Since your current IP is `10.2.0.2`, remember to change the line in your `main.py` to `network_input="10.2.0.0/24"` before you do the final push.
-
-**Once you apply the code updates and this README, your project will be a great addition to your GitHub portfolio! Ready to push the final version?**
+final version?**
 
 ```
