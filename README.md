@@ -16,10 +16,11 @@ Before running the script, ensure you have:
 
 ## 🚀 Installation & Setup
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/batoolhamdan378-bot/Python-Ping-Sweeper.git](https://github.com/batoolhamdan378-bot/Python-Ping-Sweeper.git)
+## 🚀 Installation & Setup
 
+1. **Clone the repository:**
+```bash
+git clone [https://github.com/batoolhamdan378-bot/Python-Ping-Sweeper.git](https://github.com/batoolhamdan378-bot/Python-Ping-Sweeper.git)
 ```
 
 2. **Navigate to the project directory:**
